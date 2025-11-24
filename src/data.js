@@ -1,4 +1,4 @@
-export const API_KEY = 'AIzaSyBTd6lO5f4wslzMcGM1bXPYojyN8VJSGTE'
+export const API_KEY = import.meta.env.VITE_API_KEY;
 
 
 // to convert 516824 views into simplified M or K values 
